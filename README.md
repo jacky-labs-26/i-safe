@@ -129,7 +129,7 @@ Moments you thought were safe.
 
 I know that feeling. Most people do.
 
-i-SAFE exists so that the next time bad luck strikes —
+i-SAFE exists so that the next time bad luck strikes 
 and it will, for all of us. 
 The answer isn't panic.
 It's: "It's okay. I backed up. i-SAFE."
