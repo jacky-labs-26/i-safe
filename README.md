@@ -2,7 +2,9 @@
 
 *Save your data. Save your life.*
 
-![i-SAFE Logo](isafe_logo.PNG)
+![i-SAFE Logo](isafe_logo.PNG) <p align="center">
+  <img src="i-SAFE_logo.PNG" alt="i-SAFE Logo" width="300"/>
+</p>
 
 ## What is i-SAFE?
 
