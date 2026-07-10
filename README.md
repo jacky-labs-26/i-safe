@@ -147,4 +147,4 @@ problems become tools:
 - [ARC](https://github.com/jacky-labs-26/arc-anonymous-return-channel) | anonymous callback channel for masked numbers
 - [Kinga](https://github.com/jacky-labs-26/kinga-ethical-blocker) | smart blocker for unsolicited calls
 - [J'Fokus](https://github.com/jacky-labs-26/j-fokus) | sustainable automated focus timer
-- [Red Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
+- [RED Ping](https://github.com/jacky-labs-26/red-ping) | mission location for humanitarian volunteers
